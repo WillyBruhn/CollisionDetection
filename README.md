@@ -1,3 +1,3 @@
 # CollisionDetection
 
-![alternate text](KollisionsErkennungNN.pdf)
+![alternate text](/KollisionsErkennungNN/KollisionsErkennungNN.pdf)
